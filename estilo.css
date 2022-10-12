@@ -1,0 +1,46 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#cabecalho{
+    padding: 8px;
+    margin: -8px;
+    text-align: center;
+    background-color: #21022d;
+    color: white;
+}
+
+#corpo{
+    margin: -8px;
+    background-color: #e2d8e7;
+    color: #21022d;
+    border: 24px white solid;
+
+}
+
+#textocard{
+    padding: 16px;
+}
+#primeirareceita{
+    padding-top: 32px;
+}
+.receitas{
+    padding-left: 80px;
+    padding-bottom: 64px;
+    
+}
+.receitasp{
+    padding-bottom: 16px;
+    
+}
+#intolerante{
+    text-align: center;
+    padding-bottom: 16px;
+}
+h1, h2, h3{
+    padding:0%;
+    margin: 0%;
+}
+#intolerantep{
+    padding-bottom: 32px;
+}
